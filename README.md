@@ -103,5 +103,4 @@ For running the application:
 - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 ## Contact
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: 2200032459@kluniversity.in
